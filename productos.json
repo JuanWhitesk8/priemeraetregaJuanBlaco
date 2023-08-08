@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "title": "camiseta",
+      "description": "dama y caballero",
+      "code": "P001",
+      "price": 99.99,
+      "status": true,
+      "stock": 50,
+      "category": "ropa",
+      "thumbnails": ["ruta1.jpg", "ruta2.jpg"]
+    },
+    {
+      "id": "2",
+      "title": "telefono",
+      "description": "android",
+      "code": "P002",
+      "price": 149.99,
+      "status": true,
+      "stock": 30,
+      "category": "tecnologia",
+      "thumbnails": ["ruta3.jpg", "ruta4.jpg"]
+    }
+  ]
